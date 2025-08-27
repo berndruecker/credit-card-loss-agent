@@ -1,4 +1,12 @@
+# Agent to handle credit card loss
+
+* Implemented in Python
+* Using Langchain
+* Implementing A2A protocoll, exposing a HTTP endpoint
+
 Run it:
+
+Requires the environment variable `OPENAI_API_KEY` to be set!
 
 ```shell
 pip install -r requirements.txt
